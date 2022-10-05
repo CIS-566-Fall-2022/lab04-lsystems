@@ -23,8 +23,12 @@ Angle = 90
 
 ## 3. Custom plant
 Choose a plant in the world. Working off a reference, design a grammar that mimics the structure of that plant. Unlike our simple puzzles, please use multiple rules for greater complexity. You can take this as an opportunity to design a grammar for your homework assignment! Include images of your grammar's output.
+Premise: F
+Rule 1 : F = FF[-FF][--F][+F][+F]F[-F]
+
 
 ## Submission
 - Create a pull request against this repository
 - In your readme, list your solutions to the puzzles, then your custom grammar and images of a few iterations of output
 - Profit
+
