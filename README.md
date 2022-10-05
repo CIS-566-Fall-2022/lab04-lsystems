@@ -8,6 +8,12 @@ Axiom: `FF[-FF]F[-FF]F-`
 
 Rule: `F=FFF[-FF]F[-FF]FF-`
 
+## 2. Square grammar puzzle
+
+Axiom: `+F+F-F-F+F`
+
+Rule: `F=F+F-F-F+F`
+
 # lab04-lsystems
 Let's practice using grammars! For this lab, please pull up the L-system node in Houdini.
 
