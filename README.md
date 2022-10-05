@@ -1,4 +1,14 @@
 # lab04-lsystems
+
+**Wheat Grammar Puzzle**
+This the wheat L-System I generated in Houdini:
+
+
+I used this grammar to generate this: \
+Premise: A \
+Rule 1: A=B-AFA[--AFA]AF[--AFA]AFA \
+Rule 2: B=AF[-AF]AF[-AF]AF
+
 Let's practice using grammars! For this lab, please pull up the L-system node in Houdini.
 
 ## 1. Wheat grammar puzzle
