@@ -1,22 +1,28 @@
 # lab04-lsystems
-Let's practice using grammars! For this lab, please pull up the L-system node in Houdini.
 
-## 1. Wheat grammar puzzle
-Look at these iterations (n = 1, 2, 3) of a one-rule grammar. Using the built in symbols in Houdini, design a grammar that produces this output.\
-<img width="200" alt="square1" src="https://user-images.githubusercontent.com/1758825/193949661-a3a0e1f7-7d68-4b9e-8384-d9991e1e9fd2.png">
-<img width="200" alt="square2" src="https://user-images.githubusercontent.com/1758825/193949853-cf2306b3-3537-4c24-91b5-0a3083bc87c0.png">
-<img width="200" alt="square3" src="https://user-images.githubusercontent.com/1758825/193949859-5e432b4b-f18d-48b5-a9e9-8d7dba255955.png">
+# Wheat
 
-## 2. Square grammar puzzle
-How about this one?\
-<img width="200" alt="square1" src="https://user-images.githubusercontent.com/1758825/193949895-87cdfb43-da7c-4867-ab1b-107e1ba9d2a7.png">
-<img width="200" alt="square2" src="https://user-images.githubusercontent.com/1758825/193949904-a9cdfe0f-319e-4ca8-9935-dd338217a7cf.png">
-<img width="200" alt="square3" src="https://user-images.githubusercontent.com/1758825/193949910-928e5993-ce26-4681-80f8-ffeb54be4dcf.png">
+Premise: FF[+FF]F[+FF]FF
 
-## 3. Custom plant
-Choose a plant in the world. Working off a reference, design a grammar that mimics the structure of that plant. Unlike our simple puzzles, please use multiple rules for greater complexity. You can take this as an opportunity to design a grammar for your homework assignment! Include images of your grammar's output.
+Rule1: F=FF[+FF]F[+FF]FF+
 
-## Submission
-- Create a pull request against this repository
-- In your readme, list your solutions to the puzzles, then your custom grammar and images of a few iterations of output
-- Profit
+# Square
+
+Premise: F-F+F+F-F
+
+Rule1: F=F-F+F+F-F
+
+# Custom
+
+(Inspired by this: https://lewisinthelandofmachines.tumblr.com/post/146511409048/houdini-hilbert-3d-space-filling-curve-from) 
+Will probably have to play around more for homework, but I like this direction.
+
+Premise: X
+
+Rule1: X=^/XFF^/XFX-F^\\XFX&F+\\XFX-FF\X-\
+
+Rule2: F=^/FXF^/
+
+<img width="691" alt="Screen Shot 2022-10-05 at 8 50 49 AM" src="https://user-images.githubusercontent.com/77313916/194105179-ad98df54-81ad-4b44-a0f2-8faddd160530.png">
+<img width="691" alt="Screen Shot 2022-10-05 at 8 51 04 AM" src="https://user-images.githubusercontent.com/77313916/194105191-67241495-52f7-4943-afe2-881bfcf8920f.png">
+<img width="526" alt="Screen Shot 2022-10-05 at 8 51 16 AM" src="https://user-images.githubusercontent.com/77313916/194105223-242cf7e5-617d-48ac-98ba-cfc2c45e7dc2.png">
