@@ -14,6 +14,22 @@ Axiom: `+F+F-F-F+F`
 
 Rule: `F=F+F-F-F+F`
 
+## 3. Custom plant: Joshua tree
+
+![image](https://user-images.githubusercontent.com/3106877/194099676-1e972ff1-cac1-43bb-9f93-9e9c3a3e3ec5.png)
+
+![image](https://user-images.githubusercontent.com/3106877/194100024-465c24ad-148d-4a97-b908-fe4504c2afd4.png)
+
+![image](https://user-images.githubusercontent.com/3106877/194100056-8fa3907a-5d05-4b89-9322-67c970711acd.png)
+
+![image](https://user-images.githubusercontent.com/3106877/194100075-1ebcba64-2a18-432a-9b0a-405a8f84dfce.png)
+
+Axiom: `FF~(10)F~(10)FT(-10)A`
+
+Rule 1: `A=!"[B[J]]/(120)~(50)[B[J]]/(120)~(50)B[J]`
+
+Rule 2: `B=&FH~(10)H~(20)T(10)A`
+
 # lab04-lsystems
 Let's practice using grammars! For this lab, please pull up the L-system node in Houdini.
 
