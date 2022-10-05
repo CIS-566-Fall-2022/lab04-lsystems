@@ -1,6 +1,27 @@
 # lab04-lsystems
 Let's practice using grammars! For this lab, please pull up the L-system node in Houdini.
 
+# Haoquan Liang Submission
+## Puzzle 1   
+Axiom: `FAF[-FAF]FA[-FAF]FAF`   
+Rule: `A = -`, `F = FAF[-FAF]F[-FAF]FAF`   
+<img alt="puzzle1" src="puzzle1.png">
+
+## Puzzle 2
+Axiom: `ff-F-F+F+F-F`   
+Rule: `F=F-F+F+F-F`   
+<img alt="puzzle2" src="puzzle2.png">
+
+
+## Custom
+Axiom: `FFFFFFFFFFAA`   
+Rule: `A=!"[C]////[C]////B`, `B=&FFFFA`, `C=&BAB`   
+5 iterations:   
+<img alt="custom5" src="custom-5i.png">   
+10 iterations:   
+<img alt="custom10" src="custom-10i.png">
+
+
 ## 1. Wheat grammar puzzle
 Look at these iterations (n = 1, 2, 3) of a one-rule grammar. Using the built in symbols in Houdini, design a grammar that produces this output.\
 <img width="200" alt="square1" src="https://user-images.githubusercontent.com/1758825/193949661-a3a0e1f7-7d68-4b9e-8384-d9991e1e9fd2.png">
