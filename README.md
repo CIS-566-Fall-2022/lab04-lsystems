@@ -4,34 +4,34 @@ Name: Megan Reddy
 ## Wheat Puzzle Solution
 
 Premise: `F` \
-Rule: `F = FF[-FF]F[-FF]FF-` \
+Rule: `F = FF[-FF]F[-FF]FF-` 
 
 Iteration: 1 \
-![image](puzzle_two_1.png)
+![image](puzzle_two_1.PNG)
 
 Iteration: 2 \
-![image](puzzle_two_2.png)
+![image](puzzle_two_2.PNG)
 
 Iteration: 3 \
-![image](puzzle_two_3.png)
+![image](puzzle_two_3.PNG)
 
 ## Square Puzzle Solution
 
 Premise: `+F` \
-Rule: `F = F+F-F-F+F` \
+Rule: `F = F+F-F-F+F` 
 
 Iteration: 1 \
-![image](puzzle_one_1.png)
+![image](puzzle_one_1.PNG)
 
 Iteration: 2 \
-![image](puzzle_one_2.png)
+![image](puzzle_one_2.PNG)
 
 Iteration: 3 \
-![image](puzzle_one_3.png)
+![image](puzzle_one_3.PNG)
 
 ## Custom Plant: Oak Tree
 
-![image](custom_lsystem.png)
+![image](custom_lsystem.PNG)
 
 Premise: `FFFFA` \
 A: `" B //// B //// B` \
