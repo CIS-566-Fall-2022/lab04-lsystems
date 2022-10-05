@@ -31,11 +31,19 @@ Iteration: 3 \
 
 ## Custom Plant: Oak Tree
 
-![image](custom_lsystem.PNG)
-
 Premise: `FFFFA` \
 A: `" B //// B //// B` \
 B: `[^FFF-!!FFA]!!!FFF` 
+
+Iterations: 10
+![image](custom_lsystem.PNG)
+
+Iterations: 7
+![image](custom_lsystem7.PNG)
+
+Iterations: 5
+![image](custom_lsystem5.PNG)
+
 
 For my custom plant, I chose an oak tree. I used the 3D turtle symbols described in [Houdini's documentation](https://www.sidefx.com/docs/houdini/nodes/sop/lsystem.html#turtle-commands) to create it. For the premise, I started by making a long stem since oak trees have a large base. For the grammar, I used two rules - one that scales the branch length `"` and rolls the tree counter-clockwise `/` and another that sculpts each branch by scaling thickness `!`, pitching them up `^`, and stepping forward `F`. Oak trees tend to have longer branches and a thicker base than what I have here, which could be a good future step to take. 
 
