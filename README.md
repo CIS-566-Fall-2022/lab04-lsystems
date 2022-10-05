@@ -8,8 +8,10 @@ Premise: F
 Rule #1: F = FAFA[-FAF]FA[-FAF]FAF
 Rule #2: A = -
 
-Screenshots: 
+Screenshot: 
+![](./screenshot.png)
 
+:\'
 # lab04-lsystems
 Let's practice using grammars! For this lab, please pull up the L-system node in Houdini.
 
