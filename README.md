@@ -6,9 +6,8 @@ Look at these iterations (n = 1, 2, 3) of a one-rule grammar. Using the built in
 <img width="200" alt="square1" src="https://user-images.githubusercontent.com/1758825/193949661-a3a0e1f7-7d68-4b9e-8384-d9991e1e9fd2.png">
 <img width="200" alt="square2" src="https://user-images.githubusercontent.com/1758825/193949853-cf2306b3-3537-4c24-91b5-0a3083bc87c0.png">
 <img width="200" alt="square3" src="https://user-images.githubusercontent.com/1758825/193949859-5e432b4b-f18d-48b5-a9e9-8d7dba255955.png">
-1: Premise FFF[-FF]F[-FF]FF
-2. Premise A-A[-A-A]A-[-A-A]A-A
-   Rule1 A = FFF[-FF]F[-FF]FF
+1: Premise FF[-FF]F[-FF]FF-
+Angle = 25
 
 ## 2. Square grammar puzzle
 How about this one?\
