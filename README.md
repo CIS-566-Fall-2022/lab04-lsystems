@@ -1,3 +1,45 @@
+# Submission
+Name: Megan Reddy
+
+## Wheat Puzzle Solution
+
+Premise: `F` \
+Rule: `F = FF[-FF]F[-FF]FF-` \
+
+Iteration: 1 \
+![image](puzzle_two_1.png)
+
+Iteration: 2 \
+![image](puzzle_two_2.png)
+
+Iteration: 3 \
+![image](puzzle_two_3.png)
+
+## Square Puzzle Solution
+
+Premise: `+F` \
+Rule: `F = F+F-F-F+F` \
+
+Iteration: 1 \
+![image](puzzle_one_1.png)
+
+Iteration: 2 \
+![image](puzzle_one_2.png)
+
+Iteration: 3 \
+![image](puzzle_one_3.png)
+
+## Custom Plant: Oak Tree
+
+![image](custom_lsystem.png)
+
+Premise: `FFFFA` \
+A: `" B //// B //// B` \
+B: `[^FFF-!!FFA]!!!FFF` 
+
+For my custom plant, I chose an oak tree. I used the 3D turtle symbols described in [Houdini's documentation](https://www.sidefx.com/docs/houdini/nodes/sop/lsystem.html#turtle-commands) to create it. For the premise, I started by making a long stem since oak trees have a large base. For the grammar, I used two rules - one that scales the branch length `"` and rolls the tree counter-clockwise `/` and another that sculpts each branch by scaling thickness `!`, pitching them up `^`, and stepping forward `F`. Oak trees tend to have longer branches and a thicker base than what I have here, which could be a good future step to take. 
+
+
 # lab04-lsystems
 Let's practice using grammars! For this lab, please pull up the L-system node in Houdini.
 
