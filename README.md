@@ -1,3 +1,15 @@
+# Logan Cho
+
+Collaborators: None
+
+Solution to Problem 1:
+
+Premise: F
+Rule #1: F = FAFA[-FAF]FA[-FAF]FAF
+Rule #2: A = -
+
+Screenshots: 
+
 # lab04-lsystems
 Let's practice using grammars! For this lab, please pull up the L-system node in Houdini.
 
