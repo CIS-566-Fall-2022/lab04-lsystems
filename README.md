@@ -9,6 +9,8 @@ Premise: A \
 Rule 1: A=B-AFA[--AFA]AF[--AFA]AFA \
 Rule 2: B=AF[-AF]AF[-AF]AF
 
+Angle: 20
+
 Let's practice using grammars! For this lab, please pull up the L-system node in Houdini.
 
 ## 1. Wheat grammar puzzle
