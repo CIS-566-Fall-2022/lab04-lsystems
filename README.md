@@ -1,3 +1,13 @@
+# Submission
+
+Team: just me
+
+## 1. Wheat grammar puzzle
+
+Axiom: `FF[-FF]F[-FF]F-`
+
+Rule: `F=FFF[-FF]F[-FF]FF-`
+
 # lab04-lsystems
 Let's practice using grammars! For this lab, please pull up the L-system node in Houdini.
 
