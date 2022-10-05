@@ -1,16 +1,61 @@
 # lab04-lsystems
 
+I worked some with Megan Reddy
+
 **Wheat Grammar Puzzle**
 This the wheat L-System I generated in Houdini:
 
+![](wheat_1.PNG) \
+![](wheat_3.PNG) \
+![](wheat_2.PNG) 
 
 I used this grammar to generate this: \
-Premise: A \
-Rule 1: A=B-AFA[--AFA]AF[--AFA]AFA \
-Rule 2: B=AF[-AF]AF[-AF]AF
+Premise: F \
+Rule 1: F=FF[-FF]F[-FF]FF-
 
 Angle: 20
 
+
+**Squares Grammar Puzzle**
+This the squares L-System I generated in Houdini:
+
+![](squares_1.PNG) \
+![](squares_2.PNG) \
+![](squares_3.PNG) 
+
+
+I used this grammar to generate this: \
+Premise: +F \
+Rule 1: F=F+F-F-F+F
+
+Angle: 90
+
+
+**Custom Grammar Puzzle**
+This the custom L-System I generated in Houdini:
+
+![](custom_1.PNG) \
+![](custom_3.PNG) \
+![](custom_5.PNG) 
+
+
+I wanted to start with something that looked like a flower at iteration
+1, and morphed into a tree at later iterations. I think I have achieved this
+goal. I roughly based the L-System on this: 
+
+![](tree-no-leaves.jpg)
+*Courtesy [All Things Nature](https://www.allthingsnature.org/what-are-deciduous-trees.htm)*
+
+I used this grammar to generate this: \
+Premise: FA \
+Rule 1: A = !F[----^F\^^A-FB][++++&F&&-AFB]F[F\^^AFB][F&&AFB]F \
+Rule 2: B = ^F--F&&&F
+
+Angle: 5
+
+
+\
+\
 Let's practice using grammars! For this lab, please pull up the L-system node in Houdini.
 
 ## 1. Wheat grammar puzzle
