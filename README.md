@@ -7,6 +7,14 @@ Look at these iterations (n = 1, 2, 3) of a one-rule grammar. Using the built in
 <img width="200" alt="square2" src="https://user-images.githubusercontent.com/1758825/193949853-cf2306b3-3537-4c24-91b5-0a3083bc87c0.png">
 <img width="200" alt="square3" src="https://user-images.githubusercontent.com/1758825/193949859-5e432b4b-f18d-48b5-a9e9-8d7dba255955.png">
 
+Grammar:
+Axiom: F
+Rule 1 : F = FF[+FF]F[+FF]FF+
+Angle of rotation : 20
+| Iteration 1 | Iteration 2 | Iteration 3 |
+|---|---|---|
+| Image goes here | Image goes here | Image goes here | 
+
 ## 2. Square grammar puzzle
 How about this one?\
 <img width="200" alt="square1" src="https://user-images.githubusercontent.com/1758825/193949895-87cdfb43-da7c-4867-ab1b-107e1ba9d2a7.png">
