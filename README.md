@@ -31,6 +31,11 @@ I haven't gotten to the flowers and leaves yet, but I plan to add them for fun l
 <img width="702" alt="Screen Shot 2022-10-05 at 10 01 44 PM" src="https://user-images.githubusercontent.com/25019996/194197793-8691eebf-e528-4252-a0a6-353196fe1d37.png">
 <img width="642" alt="Screen Shot 2022-10-05 at 10 01 49 PM" src="https://user-images.githubusercontent.com/25019996/194197805-18d1d205-f6f1-47ff-bfeb-8e7978a36e67.png">
 <img width="673" alt="Screen Shot 2022-10-05 at 10 01 56 PM" src="https://user-images.githubusercontent.com/25019996/194197817-435b7975-88f1-40a4-af0f-7b0a817aa903.png">
+<img width="673" alt="Screen Shot 2022-10-05 at 10 01 56 PM" src="https://user-images.githubusercontent.com/25019996/194197817-435b7975-88f1-40a4-af0f-7b0a817aa903.png">
+
+heres the beginnings of an attempt at flowers, super rough and kind of broken (later I'll make them not colliding, sometimes in the middle of branches, more organic looking, etc.), but we have proof of concept!
+
+<img width="386" alt="image" src="https://user-images.githubusercontent.com/25019996/194201866-f55b60cf-0b2c-4903-afe6-c9ba59561a29.png">
 
 Here is the grammar I defined to create it:
 
