@@ -1,6 +1,25 @@
 # lab04-lsystems
 Let's practice using grammars! For this lab, please pull up the L-system node in Houdini.
 
+# Demo
+**First puzzle**
+
+<img src="puzzle01.png"  width="700">
+
+**Second puzzle**
+
+<img src="puzzle02.png"  width="700">
+
+**Custom plant**
+
+<img src="custom.png"  width="700">
+
+<img src="rules.png"  width="500"> <img src="random.png"  width="500">
+For the custom plant, I tried to create a whomping willow. I tired to add some randomness to the trunk but it definitely need more randomness. If I had more time I think I can use the &(angle) and +/-(angle) to create two twisting trunk as the reference picture shows. 
+
+<img src="reference.jpeg"  width="700">
+
+
 ## 1. Wheat grammar puzzle
 Look at these iterations (n = 1, 2, 3) of a one-rule grammar. Using the built in symbols in Houdini, design a grammar that produces this output.\
 <img width="200" alt="square1" src="https://user-images.githubusercontent.com/1758825/193949661-a3a0e1f7-7d68-4b9e-8384-d9991e1e9fd2.png">
