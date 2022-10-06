@@ -4,17 +4,20 @@ Let's practice using grammars! For this lab, please pull up the L-system node in
 # Demo
 **First puzzle**
 
-![First](puzzle01.png)
+<img src="puzzle01.png"  width="700">
 
 **Second puzzle**
 
-![Second](puzzle02.png)
+<img src="puzzle02.png"  width="700">
 
 **Custom plant**
 
-![Custom](custom.png)
+<img src="custom.png"  width="700">
 
-![Rules](final.png)
+<img src="rules.png"  width="500"> <img src="random.png"  width="500">
+For the custom plant, I tried to create a whomping willow. I tired to add some randomness to the trunk but it definitely need more randomness. If I had more time I think I can use the &(angle) and +/-(angle) to create two twisting trunk as the reference picture shows. 
+
+<img src="reference.jpeg"  width="700">
 
 
 ## 1. Wheat grammar puzzle
