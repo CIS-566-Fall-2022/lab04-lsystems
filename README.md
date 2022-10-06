@@ -1,4 +1,19 @@
 # lab04-lsystems
+
+## 1. Wheat grammar
+
+Started with trying to create the tree in 1st iteration. Then replaced each branch with that tree.
+
+Grammar:
+Premise = A
+Rules:
+A = F-F[-F-F-F][--F-F-]
+F = FF[-FF]F[-FF]FF
+
+![wheat3](https://user-images.githubusercontent.com/90112787/194322209-324282dd-c691-46a4-8f67-ab525d4a8c9e.jpg)
+![wheat2](https://user-images.githubusercontent.com/90112787/194322287-55045511-71b7-4b28-aded-11e851d072f4.jpg)
+
+
 Let's practice using grammars! For this lab, please pull up the L-system node in Houdini.
 
 ## 1. Wheat grammar puzzle
