@@ -20,3 +20,37 @@ Choose a plant in the world. Working off a reference, design a grammar that mimi
 - Create a pull request against this repository
 - In your readme, list your solutions to the puzzles, then your custom grammar and images of a few iterations of output
 - Profit
+
+## Puzzle 1
+- Rules: 
+    - Premise: A
+    - Rule 1: A=FFAA[-FFAA]FFAA[-FFAA]FFAA-
+    - Angle: 19
+
+![](pz1gen1.png)
+![](pz1gen2.png)
+![](pz1gen3.png)
+
+## Puzzle 2
+- Rules:
+    - Premise: +F+F-F-F+F
+    - Rule 1: F=F+F-F-F+F
+    - Angle: 90
+
+![](puz2gen0.png)
+![](puz2gen1.png)
+![](puz2gen2.png)
+![](puz2gen3.png)
+    
+## Puzzle 3 : Papyrus Plant
+- Rules:
+    - Premise: C
+    - Rule 1: A=-[F+F]-[F+F]-[F+F]-[F-F]-[F-F]-[F-F]
+    - Rule 2: B=FFF+[C]FFF
+    - Rule 3: C=+[B+++A]-[B+++A]-[B+++A] 
+    - Angle: 18
+
+![](puz3gen1.png)
+![](puz3gen2.png)
+![](puz3gen3.png)
+![](puz3gen4.png)
