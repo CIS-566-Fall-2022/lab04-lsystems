@@ -6,17 +6,17 @@ Started with trying to create the tree in 1st iteration. Then replaced each bran
 
 Grammar:
 \
-Premise = A
+&nbsp;&nbsp;&nbsp;&nbsp;Premise = A
 \
-Rules:
+&nbsp;&nbsp;&nbsp;&nbsp;Rules:
 \
-A = F-F[-F-F-F][--F-F-]
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A = F-F[-F-F-F][--F-F-]
 \
-F = FF[-FF]F[-FF]FF
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;F = FF[-FF]F[-FF]FF
 
 \
-<img width="200" alt="square1" src="https://user-images.githubusercontent.com/90112787/194322209-324282dd-c691-46a4-8f67-ab525d4a8c9e.jpg">
-<img width="200" alt="square1" src="https://user-images.githubusercontent.com/90112787/194322287-55045511-71b7-4b28-aded-11e851d072f4.jpg">
+<img width="250" alt="square1" src="https://user-images.githubusercontent.com/90112787/194322209-324282dd-c691-46a4-8f67-ab525d4a8c9e.jpg">
+<img width="250" alt="square1" src="https://user-images.githubusercontent.com/90112787/194322287-55045511-71b7-4b28-aded-11e851d072f4.jpg">
 
 
 ## 2. Square grammar
@@ -25,15 +25,16 @@ Started with trying to create the pattern in 1st iteration. Then replaced each s
 
 Grammar:
 \
-Premise = +F
+&nbsp;&nbsp;&nbsp;&nbsp;Premise = +F
 \
-Rules:
-F = F+F-F-F+F
+&nbsp;&nbsp;&nbsp;&nbsp;Rules:
+\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;F = F+F-F-F+F
 
 \
-<img width="200" alt="square1" src="https://user-images.githubusercontent.com/90112787/194323290-1e4b9411-42e9-496b-8234-f4d670648751.jpg">
-<img width="200" alt="square1" src="https://user-images.githubusercontent.com/90112787/194323300-2dc478b7-e366-4901-b70b-be2999f97ebe.jpg">
-<img width="200" alt="square1" src="https://user-images.githubusercontent.com/90112787/194392563-3f5484cc-1747-488b-a0d6-b55319a8c432.jpg">
+<img width="250" alt="square1" src="https://user-images.githubusercontent.com/90112787/194323290-1e4b9411-42e9-496b-8234-f4d670648751.jpg">
+<img width="250" alt="square1" src="https://user-images.githubusercontent.com/90112787/194323300-2dc478b7-e366-4901-b70b-be2999f97ebe.jpg">
+<img width="270" alt="square1" src="https://user-images.githubusercontent.com/90112787/194392563-3f5484cc-1747-488b-a0d6-b55319a8c432.jpg">
 
 
 ---
