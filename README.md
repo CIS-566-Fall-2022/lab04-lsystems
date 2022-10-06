@@ -5,9 +5,13 @@
 Started with trying to create the tree in 1st iteration. Then replaced each branch with that tree.
 
 Grammar:
+
 Premise = A
+
 Rules:
+
 A = F-F[-F-F-F][--F-F-]
+
 F = FF[-FF]F[-FF]FF
 
 <img width="200" alt="square1" src="https://user-images.githubusercontent.com/90112787/194322209-324282dd-c691-46a4-8f67-ab525d4a8c9e.jpg">
@@ -19,8 +23,11 @@ F = FF[-FF]F[-FF]FF
 Started with trying to create the pattern in 1st iteration. Then replaced each step with that pattern.
 
 Grammar:
+
 Premise = +F
+
 Rules:
+
 F = F+F-F-F+F
 
 <img width="200" alt="square1" src="https://user-images.githubusercontent.com/90112787/194323290-1e4b9411-42e9-496b-8234-f4d670648751.jpg">
