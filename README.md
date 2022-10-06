@@ -14,6 +14,20 @@ F = FF[-FF]F[-FF]FF
 <img width="200" alt="square1" src="https://user-images.githubusercontent.com/90112787/194322287-55045511-71b7-4b28-aded-11e851d072f4.jpg">
 
 
+## 2. Square grammar
+
+Started with trying to create the pattern in 1st iteration. Then replaced each step with that pattern.
+
+Grammar:
+Premise = +F
+Rules:
+F = F+F-F-F+F
+
+<img width="200" alt="square1" src="https://user-images.githubusercontent.com/90112787/194323290-1e4b9411-42e9-496b-8234-f4d670648751.jpg">
+<img width="200" alt="square1" src="https://user-images.githubusercontent.com/90112787/194323300-2dc478b7-e366-4901-b70b-be2999f97ebe.jpg">
+
+
+
 Let's practice using grammars! For this lab, please pull up the L-system node in Houdini.
 
 ## 1. Wheat grammar puzzle
