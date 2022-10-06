@@ -48,7 +48,7 @@ D = [!!!^(20)BBOBO~(15)BOBOB]/30[!&(40)BBOBBO~(20)PBOBOBOPBOBB] (double branch)
 
 P = S : 0.4 (P included in double and single branches grow into single branches with probability 0.4)
 
-C = GHGH (stems for flower cluster, flowers themselves not included)
+C = GHGH (stems for flower cluster, flowers themselves not included) right now I just stuck one of these onto the end of the premise but later I plan to make them come off the double and single branches with some probability
 
 G = ///^(30)[!IIIII] (short flower stem)
 
