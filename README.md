@@ -7,11 +7,15 @@ Premise: F
 
 Rule: F = FF[-FF]F[-FF]FF-
 
+![](wheat_1.png) ![](wheat_2.png) ![](wheat_3.png)
+
 2. Square grammar
 
 Premise: +F
 
 Rule: F = F+F-F-F+F
+
+![](square_1.png) ![](square_2.png) ![](square_3.png)
 
 ## 1. Wheat grammar puzzle
 Look at these iterations (n = 1, 2, 3) of a one-rule grammar. Using the built in symbols in Houdini, design a grammar that produces this output.\
