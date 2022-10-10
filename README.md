@@ -1,4 +1,66 @@
 # lab04-lsystems
+
+
+## Exercise 1 
+
+Iteration 1
+
+![](ex1it1.png)
+
+Iteration 2
+
+![](ex1it2.png)
+
+Iteration 10
+
+![](ex1it10.png)
+
+Axiom: A
+Rules:
+A=F[-F]H[-F]F-B[--B-B][-A]
+B=F[-F]H[-F]F
+
+## Exercise 2 (Rhuta Joshi helped get to the exact correct answer and fix issues).
+
+Iteration 1
+
+![](ex2it1.png)
+
+Iteration 2
+
+![](ex2it2.png)
+
+Iteration 3
+
+![](ex2it3.png)
+
+Axiom: -F
+Rules:
+F=F-F+F+F-F
+
+## Exercise 3 (Lilypads)
+
+Iteration 1
+
+![](ex3it1.png)
+
+Iteration 2
+
+![](ex3it2.png)
+
+Iteration 5
+
+![](ex3it5.png)
+
+Axiom: A
+A=-F-F-F-F-F-F-F-F-F-F-F-F-F-F-F-F-F----F++++++F--[--CA][++CA]
+C=ffffffffff
+
+
+Iteration 10
+
+![](ex1it10.png)
+
 Let's practice using grammars! For this lab, please pull up the L-system node in Houdini.
 
 ## 1. Wheat grammar puzzle
