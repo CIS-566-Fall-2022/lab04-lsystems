@@ -1,5 +1,15 @@
 # lab04-lsystems
 Let's practice using grammars! For this lab, please pull up the L-system node in Houdini.
+## Wheat grammar
+![](img/img1.png)
+![](img/img2.png)
+![](img/img3.png)
+
+## Square grammar
+![](img/square1img.png)
+![](img/square2img.png)
+![](img/square3img.png)
+
 
 ## 1. Wheat grammar puzzle
 Look at these iterations (n = 1, 2, 3) of a one-rule grammar. Using the built in symbols in Houdini, design a grammar that produces this output.\
@@ -20,3 +30,4 @@ Choose a plant in the world. Working off a reference, design a grammar that mimi
 - Create a pull request against this repository
 - In your readme, list your solutions to the puzzles, then your custom grammar and images of a few iterations of output
 - Profit
+ 
