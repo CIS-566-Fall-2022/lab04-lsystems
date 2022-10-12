@@ -6,6 +6,22 @@ Premise: F\
 Rule: F->FF[-FF]F[-FF]FF-\
 Angle: 20 degrees
 
+
+
+ANSWER #2:\
+Premise: -F\
+Rule: F->F-F+F+F-F\
+Angle: 90 degrees\
+
+n = 1\
+<img width="354" alt="image" src="https://user-images.githubusercontent.com/65415823/195440010-1156fc32-8440-412d-b9b2-029eb9472b0e.png">
+
+n = 2\
+<img width="365" alt="image" src="https://user-images.githubusercontent.com/65415823/195439867-e6d6d1f2-c7de-40ef-a91e-9774726b35e4.png">
+
+n = 3\
+<img width="444" alt="image" src="https://user-images.githubusercontent.com/65415823/195439666-9f9b5e85-7fb4-4eed-b612-248cb1204c27.png">
+
 ## 1. Wheat grammar puzzle
 Look at these iterations (n = 1, 2, 3) of a one-rule grammar. Using the built in symbols in Houdini, design a grammar that produces this output.\
 <img width="200" alt="square1" src="https://user-images.githubusercontent.com/1758825/193949661-a3a0e1f7-7d68-4b9e-8384-d9991e1e9fd2.png">
