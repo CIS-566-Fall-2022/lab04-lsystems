@@ -6,12 +6,20 @@ Premise: F\
 Rule: F->FF[-FF]F[-FF]FF-\
 Angle: 20 degrees
 
+n = 1\
+<img width="169" alt="image" src="https://user-images.githubusercontent.com/65415823/195440710-20856123-12d9-4fe7-b0f9-cd6cb95ca166.png">
+
+n = 2\
+<img width="387" alt="image" src="https://user-images.githubusercontent.com/65415823/195440806-a696f17f-3ff0-4a32-b55d-5db5d196310a.png">
+
+n = 3\
+<img width="352" alt="image" src="https://user-images.githubusercontent.com/65415823/195440897-e0ad4234-2bc8-4935-86ff-b23de5d42bb5.png">
 
 
 ANSWER #2:\
 Premise: -F\
 Rule: F->F-F+F+F-F\
-Angle: 90 degrees\
+Angle: 90 degrees
 
 n = 1\
 <img width="354" alt="image" src="https://user-images.githubusercontent.com/65415823/195440010-1156fc32-8440-412d-b9b2-029eb9472b0e.png">
