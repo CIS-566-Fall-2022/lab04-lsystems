@@ -1,3 +1,31 @@
+## 1. wheat grammar puzzle
+
+rule:
+
+<img width="441" alt="GetImage" src="https://user-images.githubusercontent.com/60904107/214375634-80bc089d-59ed-4cdd-9f9e-3e66358388fe.png">
+
+n = 1:
+
+<img width="126" alt="GetImage (1)" src="https://user-images.githubusercontent.com/60904107/214375775-04836ba9-74a4-4a45-bfcc-c865057458d4.png">
+
+n = 2:
+
+<img width="502" alt="GetImage (2)" src="https://user-images.githubusercontent.com/60904107/214375805-52d2899c-9da8-452f-a7c4-1a3b7a742748.png">
+
+n = 3:
+
+<img width="474" alt="GetImage (3)" src="https://user-images.githubusercontent.com/60904107/214375837-70cd34b0-35b7-4e4e-8356-af98d9ca16db.png">
+
+## 2. square grammar puzzle
+
+## 3. custom plant
+
+takenn froom hw3
+
+![image](https://user-images.githubusercontent.com/60904107/214629939-c3615ed4-a020-47a0-a77b-cd0dc76f8f48.png)
+
+---
+
 # lab04-lsystems
 Let's practice using grammars! For this lab, please pull up the L-system node in Houdini.
 
