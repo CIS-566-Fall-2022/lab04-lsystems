@@ -20,6 +20,10 @@ n = 3:
 
 ## 3. custom plant
 
+takenn froom hw3
+
+![image](https://user-images.githubusercontent.com/60904107/214629939-c3615ed4-a020-47a0-a77b-cd0dc76f8f48.png)
+
 ---
 
 # lab04-lsystems
